@@ -1,1 +1,73 @@
-/*# sourceMappingURL=style.css.map */
+header, footer {
+  background-color: #f1a536;
+  color: #2e2c2a;
+}
+header a, footer a {
+  text-decoration: none;
+  color: #2e2c2a;
+}
+
+.gray {
+  background-color: #dadfea;
+}
+
+.cheast {
+  position: relative;
+  height: 600px;
+  width: 100%;
+}
+.cheast img {
+  margin-top: 2px;
+  height: 100%;
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: 0 0;
+     object-position: 0 0;
+}
+.cheast h1 {
+  position: absolute;
+  bottom: 50px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 5px 20px;
+}
+
+.everyday img {
+  width: 400px;
+  height: 300px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.everyday h3 {
+  text-align: center;
+  font-size: medium;
+}
+
+.health img {
+  width: 100%;
+  height: 300px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.health h3 {
+  text-align: center;
+  font-size: medium;
+  background-color: white;
+}
+
+.where {
+  background-color: #dadfea;
+  margin: 8px;
+}
+.where img {
+  margin: 2px;
+  width: 100%;
+  height: 300px;
+}
+.where h3 {
+  text-align: center;
+  font-size: medium;
+  background-color: white;
+}/*# sourceMappingURL=style.css.map */
