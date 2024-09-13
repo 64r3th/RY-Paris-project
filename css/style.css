@@ -9,6 +9,11 @@ header a, footer a {
 
 .gray {
   background-color: #dadfea;
+  padding: 50px;
+}
+
+.white {
+  padding: 50px;
 }
 
 .cheast {
